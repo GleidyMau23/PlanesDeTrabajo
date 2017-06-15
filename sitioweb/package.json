@@ -1,0 +1,8 @@
+{
+    "name": "sitioweb",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "SENA2015",
+    "contributors": [],
+    "dependencies": {}
+}
